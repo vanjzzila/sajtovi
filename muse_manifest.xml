@@ -1,0 +1,100 @@
+<manifest alg="2" build="2015.0.0.309" opt="false" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" domain="crevio.com" resolutions="1x" timestamp="1516645078592">
+  <folder name="css">
+    <file name="site_global.css" crc="4052507572"/>
+    <file name="master_b-master.css" crc="218311642" ref="galerija:kontakt:cenovnik"/>
+    <file name="master_a-master.css" crc="3793576591" ref="index:galerija:kontakt:cenovnik"/>
+    <file name="index.css" crc="3850800649" ref="index"/>
+    <file name="galerija.css" crc="3831482908" ref="galerija"/>
+    <file name="kontakt.css" crc="3855600864" ref="kontakt"/>
+    <file name="cenovnik.css" crc="243730744" ref="cenovnik"/>
+  </folder>
+  <folder name="assets">
+    <file name="homecontactpage.muse" crc="265606160" seo="true" mt="1397224112000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="4255413929" ref="phone>index:phone>galerija:phone>kontakt:phone>cenovnik:index:galerija:kontakt:cenovnik"/>
+    <file name="museutils.js" crc="183364071" ref="phone>index:phone>galerija:phone>kontakt:phone>cenovnik:index:galerija:kontakt:cenovnik"/>
+    <file name="pie.js" crc="3827607177" ref="phone>index:phone>galerija:phone>kontakt:phone>cenovnik:index:galerija:kontakt:cenovnik"/>
+    <file name="jquery.musemenu.js" crc="3957776250" ref="phone>index:phone>galerija:phone>kontakt:phone>cenovnik:index:galerija:kontakt:cenovnik"/>
+    <file name="jquery.watch.js" crc="71412426" ref="phone>index:phone>galerija:phone>kontakt:phone>cenovnik:index:galerija:kontakt:cenovnik"/>
+    <file name="html5shiv.js" crc="4241844378" ref="phone>index:phone>galerija:phone>kontakt:phone>cenovnik:index:galerija:kontakt:cenovnik"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4004268962" ref="phone>galerija:phone>kontakt:phone>cenovnik"/>
+    <file name="webpro.js" crc="3803554875" ref="phone>galerija:galerija"/>
+    <file name="musewpslideshow.js" crc="242596657" ref="phone>galerija:galerija"/>
+    <file name="jquery.museoverlay.js" crc="493285861" ref="phone>galerija:galerija"/>
+    <file name="touchswipe.js" crc="4038331989" ref="phone>galerija:galerija"/>
+    <file name="museredirect.js" crc="40941066" ref="index:galerija:kontakt:cenovnik"/>
+  </folder>
+  <folder name="images">
+    <file name="22500430_122975285126620_8008513315678453760_n.jpg" crc="13232318" ref="phone>index:phone>galerija:phone>kontakt:phone>cenovnik:index"/>
+    <file name="untitled-1217x151.jpg" crc="69970623" seo="true" ref="phone>index"/>
+    <file name="22430209_1986936564925569_5013856864715145216_n-crop-u1358.jpg" crc="142239590" ref="phone>galerija"/>
+    <file name="blank.gif" crc="4208392903" ref="phone>galerija:galerija"/>
+    <file name="22430518_170629450191205_977542442129555456_n-crop-u1485.jpg" crc="235878317" ref="phone>galerija"/>
+    <file name="22500430_122975285126620_8008513315678453760_n-crop-u1494.jpg" crc="417419390" ref="phone>galerija"/>
+    <file name="22582699_186250511947141_5181063171363831808_n-crop-u1503.jpg" crc="3890839116" ref="phone>galerija"/>
+    <file name="22430386_137061816921297_7189999236048486400_n-crop-u1539.jpg" crc="3996117508" ref="phone>galerija"/>
+    <file name="22430420_1803668633009154_2451603217008558080_n-crop-u1548.jpg" crc="150352803" ref="phone>galerija"/>
+    <file name="22500462_181738679063590_5450411647216648192_n-crop-u1602.jpg" crc="4021752479" ref="phone>galerija"/>
+    <file name="22500486_121788178488489_3218159982042152960_n-crop-u1611.jpg" crc="221567237" ref="phone>galerija"/>
+    <file name="22500523_127385364649041_7655453032418639872_n-crop-u1620.jpg" crc="135671216" ref="phone>galerija"/>
+    <file name="22500570_282907145531302_4053979240821948416_n-crop-u1629.jpg" crc="4082142836" ref="phone>galerija"/>
+    <file name="22637724_160180837910666_6970402261193195520_n.jpg" crc="4055237683" seo="true" ref="phone>galerija"/>
+    <file name="22710331_295392300963689_2813668264276656128_n-crop-u1656.jpg" crc="124758423" ref="phone>galerija"/>
+    <file name="22430209_1986936564925569_5013856864715145216_n-crop-u1349.jpg" crc="4243636538" ref="phone>galerija"/>
+    <file name="22430518_170629450191205_977542442129555456_n-crop-u1488.jpg" crc="3908379127" ref="phone>galerija"/>
+    <file name="22500430_122975285126620_8008513315678453760_n-crop-u1497.jpg" crc="4209946404" ref="phone>galerija"/>
+    <file name="22582699_186250511947141_5181063171363831808_n-crop-u1506.jpg" crc="88363326" ref="phone>galerija"/>
+    <file name="22430386_137061816921297_7189999236048486400_n-crop-u1542.jpg" crc="245715408" ref="phone>galerija"/>
+    <file name="22430420_1803668633009154_2451603217008558080_n-crop-u1551.jpg" crc="214548676" ref="phone>galerija"/>
+    <file name="22500462_181738679063590_5450411647216648192_n-crop-u1605.jpg" crc="4281915966" ref="phone>galerija"/>
+    <file name="22500486_121788178488489_3218159982042152960_n-crop-u1614.jpg" crc="4111167723" ref="phone>galerija"/>
+    <file name="22500523_127385364649041_7655453032418639872_n-crop-u1623.jpg" crc="390731725" ref="phone>galerija"/>
+    <file name="22500570_282907145531302_4053979240821948416_n-crop-u1632.jpg" crc="3868003327" ref="phone>galerija"/>
+    <file name="22637724_160180837910666_6970402261193195520_n-crop-u1650.jpg" crc="511103219" ref="phone>galerija"/>
+    <file name="22710331_295392300963689_2813668264276656128_n-crop-u1659.jpg" crc="3842284721" ref="phone>galerija"/>
+    <file name="loading.gif" crc="3815509949" ref="phone>galerija:galerija"/>
+    <file name="untitled-1.jpg" crc="124482404" seo="true" ref="index:galerija:kontakt:cenovnik"/>
+    <file name="22582699_186250511947141_5181063171363831808_n.jpg" crc="4012557327" ref="galerija"/>
+    <file name="22430209_1986936564925569_5013856864715145216_n480x480.jpg" crc="342738637" seo="true" ref="galerija"/>
+    <file name="22500486_121788178488489_3218159982042152960_n.jpg" crc="4261354256" seo="true" ref="galerija"/>
+    <file name="22500570_282907145531302_4053979240821948416_n.jpg" crc="417126381" seo="true" ref="galerija"/>
+    <file name="22430518_170629450191205_977542442129555456_n480x481.jpg" crc="3958075251" seo="true" ref="galerija"/>
+    <file name="22430420_1803668633009154_2451603217008558080_n.jpg" crc="418129597" seo="true" ref="galerija"/>
+    <file name="22710331_295392300963689_2813668264276656128_n.jpg" crc="75523379" seo="true" ref="galerija"/>
+    <file name="22500462_181738679063590_5450411647216648192_n.jpg" crc="3886659840" seo="true" ref="galerija"/>
+    <file name="22430510_211965036009818_757578131606339584_n.jpg" crc="48761401" seo="true" ref="galerija"/>
+    <file name="22500523_127385364649041_7655453032418639872_n.jpg" crc="4272210527" seo="true" ref="galerija"/>
+    <file name="22430386_137061816921297_7189999236048486400_n.jpg" crc="353084784" seo="true" ref="galerija"/>
+    <file name="22430209_1986936564925569_5013856864715145216_n-crop-u398.jpg" crc="4196554962" ref="galerija"/>
+    <file name="22500486_121788178488489_3218159982042152960_n-crop-u482.jpg" crc="322368033" ref="galerija"/>
+    <file name="22500570_282907145531302_4053979240821948416_n-crop-u500.jpg" crc="445397484" ref="galerija"/>
+    <file name="22430518_170629450191205_977542442129555456_n-crop-u473.jpg" crc="178457010" ref="galerija"/>
+    <file name="22430420_1803668633009154_2451603217008558080_n-crop-u382.jpg" crc="469472529" ref="galerija"/>
+    <file name="22710331_295392300963689_2813668264276656128_n-crop-u569.jpg" crc="374574563" ref="galerija"/>
+    <file name="22500462_181738679063590_5450411647216648192_n-crop-u442.jpg" crc="518572214" ref="galerija"/>
+    <file name="22430510_211965036009818_757578131606339584_n-crop-u413.jpg" crc="3831172435" ref="galerija"/>
+    <file name="22500523_127385364649041_7655453032418639872_n-crop-u597.jpg" crc="4046681334" ref="galerija"/>
+    <file name="22430386_137061816921297_7189999236048486400_n-crop-u373.jpg" crc="3987402795" ref="galerija"/>
+    <file name="22430518_170629450191205_977542442129555456_n.jpg" crc="81955572" ref="kontakt"/>
+    <file name="22430209_1986936564925569_5013856864715145216_n.jpg" crc="3793305981" ref="cenovnik"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="master_a-master.css" crc="168589004" ref="phone>galerija:phone>cenovnik:phone>kontakt"/>
+      <file name="master_c-master.css" crc="353409049" ref="phone>index"/>
+      <file name="index.css" crc="443092869" ref="phone>index"/>
+      <file name="galerija.css" crc="3956312518" ref="phone>galerija"/>
+      <file name="cenovnik.css" crc="3806219409" ref="phone>cenovnik"/>
+      <file name="kontakt.css" crc="4084110087" ref="phone>kontakt"/>
+    </folder>
+    <file name="index.html" crc="4097894317" seo="true" mt="1511820716124" redirect="true"/>
+    <file name="galerija.html" crc="363154780" seo="true" mt="1511820417952" redirect="true"/>
+    <file name="kontakt.html" crc="3890037349" seo="true" mt="1511820463973" redirect="true"/>
+    <file name="cenovnik.html" crc="50382584" seo="true" mt="1511820417952" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="343564294" seo="true" mt="1511819617977" redirect="true"/>
+  <file name="galerija.html" crc="4280646509" seo="true" mt="1511817385521" redirect="true"/>
+  <file name="kontakt.html" crc="459074136" seo="true" mt="1511820765706" redirect="true"/>
+  <file name="cenovnik.html" crc="316862465" seo="true" mt="1511819678227" redirect="true"/>
+</manifest>
